@@ -1,4 +1,6 @@
-/* mahmut .com dan gönderelim fffffffffffffff */
+/* mahmut .com dan gönderelim vvvvvvvvvvvvvvvvv */
+/* localde değişiklik */
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -327,4 +329,4 @@ namespace IcmAlgoStreamserver
     }
 }
 
-/* cirtek */
+/* github.com */

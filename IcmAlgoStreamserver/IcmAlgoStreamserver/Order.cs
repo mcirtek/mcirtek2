@@ -1,12 +1,10 @@
 
-
-/* from github.com */
-/* from vs */
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+
+/* from vs */
 
 namespace IcmAlgoStreamserver
 {
@@ -331,6 +329,3 @@ namespace IcmAlgoStreamserver
     }
 }
 
-
-/* from github.com */
-/* from vs */

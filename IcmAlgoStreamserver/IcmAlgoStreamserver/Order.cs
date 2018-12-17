@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 
 /* from vs */
+/* from deneme */
 
 namespace IcmAlgoStreamserver
 {

@@ -329,4 +329,4 @@ namespace IcmAlgoStreamserver
     }
 }
 
-/* github.com */
+/* malicu */

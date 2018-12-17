@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-/* ilk  in vs*/
+/* ilk  in vs xxxxx*/
 
 namespace IcmAlgoStreamserver
 {

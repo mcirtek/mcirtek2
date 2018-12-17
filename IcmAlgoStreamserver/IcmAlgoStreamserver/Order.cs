@@ -1,6 +1,7 @@
 ﻿/*selam ilk gönderim */
 /* 2. örnek */
 /* push */
+/* vs ye gönder */
 using System;
 using System.Collections.Generic;
 using System.Linq;

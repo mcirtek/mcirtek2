@@ -4,12 +4,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-/* from github mahmut..... */
-
-
-
-
-/* from vs  cirtek */
 namespace IcmAlgoStreamserver
 {
     class Order

@@ -1,5 +1,6 @@
-/* mahmut .com dan gönderelim vvvvvvvvvvvvvvvvv */
-/* localde değişiklik */
+
+
+/* from github.com */
 
 using System;
 using System.Collections.Generic;
@@ -329,4 +330,5 @@ namespace IcmAlgoStreamserver
     }
 }
 
-/* malicu */
+
+/* from github.com */

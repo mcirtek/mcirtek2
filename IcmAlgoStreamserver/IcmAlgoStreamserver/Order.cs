@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 
 /* ilk  in vs cirtek*/
-/* delam from github */
+/* selamlar mahmut from github */
 namespace IcmAlgoStreamserver
 {
     class Order

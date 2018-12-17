@@ -4,8 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-/* ilk  in vs cirtek*/
-/* selamlar mahmut from github */
+
 namespace IcmAlgoStreamserver
 {
     class Order

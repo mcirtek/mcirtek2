@@ -327,5 +327,4 @@ namespace IcmAlgoStreamserver
     }
 }
 
-/* getir */
-/* github.com */
+/* cirtek */

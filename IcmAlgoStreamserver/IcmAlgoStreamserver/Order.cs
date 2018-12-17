@@ -1,4 +1,4 @@
-/* xxxxxxx yyyyyy gönderelim */
+/* mahmut .com dan gönderelim */
 using System;
 using System.Collections.Generic;
 using System.Linq;
